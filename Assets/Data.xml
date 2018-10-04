@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<usersContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <users>
+    <user name="TEST" score="0" exitReason="dead" playedTime="5.18143" launchDate="17/05/2017" />
+    <user name="Test" score="3" exitReason="dead" playedTime="54.95434" launchDate="17/05/2017" />
+    <user name="player" score="0" exitReason="dead" playedTime="17.83875" launchDate="17/05/2017" />
+    <user name="1" score="0" exitReason="dead" playedTime="0" launchDate="17/05/2017" />
+    <user name="123" score="0" exitReason="dead" playedTime="0" launchDate="17/05/2017" />
+    <user name="32" score="250" exitReason="dead" playedTime="50.64" launchDate="17/05/2017" />
+    <user name="q" score="21" exitReason="dead" playedTime="17.732" launchDate="17/05/2017" />
+    <user name="e" score="25" exitReason="dead" playedTime="199.8604" launchDate="17/05/2017" />
+    <user name="2" score="0" exitReason="dead" playedTime="164.8345" launchDate="18/05/2017" />
+    <user name="123" score="0" exitReason="Exit" playedTime="2.340286" launchDate="19/05/2017" />
+    <user name="123" score="46" exitReason="Exit" playedTime="241.5204" launchDate="19/05/2017" />
+  </users>
+</usersContainer>
